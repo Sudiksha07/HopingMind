@@ -1,0 +1,22 @@
+*{
+  text-align: center;
+    
+}
+.maindiv{
+
+  font-size: 25px;
+
+}
+p{
+  margin: 0px;
+  color:red;
+  font-weight: bold;
+}
+.classhu{
+  color:black
+}
+#idhu{
+  color:rgb(3, 185, 3);
+}
+
+
